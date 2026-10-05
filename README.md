@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/GitHub-rakesh--NS-181717?style=for-the-badge&logo=github" />
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/rakeshnallasamy">
 <img src="https://img.shields.io/badge/LinkedIn-Rakesh%20N-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
@@ -88,7 +88,7 @@ A full-stack application designed to manage **product registration, warranty tra
 
 `Java` `Spring Boot` `Spring Data JPA` `React.js` `MySQL`
 
-🔗 **[View Repository](YOUR_PRODUCT_WARRANTY_REPOSITORY_LINK)**
+🔗 **[View Repository](https://github.com/rakesh-NS/WARRANTY_MANAGEMENT)**
 
 ---
 
@@ -100,7 +100,7 @@ A full-stack web application for **reporting and managing infrastructure issues 
 
 `React.js` `MySQL` `HTML` `CSS` `JavaScript` `REST API`
 
-🔗 **[View Repository](YOUR_SHIAIS_REPOSITORY_LINK)**
+🔗 **[View Repository](https://github.com/rakesh-NS/SECURE-HILL-INFRASTRUCTURE-ASSET-INTELLIGENCE-SYSTEM)**
 
 ---
 
@@ -112,7 +112,7 @@ An IoT-based health monitoring system designed to monitor health parameters usin
 
 `ESP32` `MAX30102` `DS18B20` `MySQL` `HTML` `CSS` `JavaScript` `REST API`
 
-🔗 **[View Repository](YOUR_IOT_REPOSITORY_LINK)**
+🔗 **[View Repository](https://github.com/rakesh-NS/IoT-Integrated-Health-Risk-Predictor)**
 
 ---
 
@@ -189,17 +189,6 @@ NPTEL SWAYAM — IIT Kharagpur
 
 </div>
 
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/rakesh-NS/rakesh-NS/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-
-</div>
-
----
 
 ## 🤝 Let's Connect
 
@@ -209,7 +198,7 @@ NPTEL SWAYAM — IIT Kharagpur
 <img src="https://img.shields.io/badge/GitHub-rakesh--NS-181717?style=for-the-badge&logo=github" />
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/rakeshnallasamy/">
 <img src="https://img.shields.io/badge/LinkedIn-Rakesh%20N-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
