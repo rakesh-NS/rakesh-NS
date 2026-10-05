@@ -1,150 +1,230 @@
-# Hi 👋, I'm Rakesh N
+<!-- ======================= HEADER ======================= -->
 
-### Java Full Stack Developer | Computer Science Engineering Student
+<div align="center">
 
-I am a Computer Science Engineering student passionate about **Java Full Stack Development** and building practical, user-friendly applications to solve real-world problems.
+# 👋 Hi, I'm Rakesh N
 
-- 🎓 Pursuing **Bachelor of Engineering (B.E.) in Computer Science and Engineering**
+### 💻 Java Full Stack Developer | 🎓 Computer Science Engineering Student | 🚀 Problem Solver
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React.js+%7C+MySQL;Building+Real-World+Applications;Passionate+About+Software+Development;Always+Learning+New+Technologies" />
+
+<br><br>
+
+<a href="https://github.com/rakesh-NS">
+<img src="https://img.shields.io/badge/GitHub-rakesh--NS-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Rakesh%20N-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:rakeshrk00745@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=rakesh-NS&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I am a **Computer Science Engineering student** passionate about **Java Full Stack Development** and building practical applications that solve real-world problems.
+
+- 🎓 Pursuing **B.E. in Computer Science and Engineering**
 - 💻 Interested in **Java Full Stack Development**
 - 🌱 Currently learning **Spring Boot and Microservices**
-- 🗄️ Interested in **Database Management and Backend Development**
-- 🚀 Passionate about learning new technologies and solving real-world problems
+- 🗄️ Interested in **Backend Development and Database Management**
+- 🚀 Passionate about solving real-world problems through technology
 - 🤝 Interested in collaborating on software development projects
+- 📚 Always willing to learn and explore new technologies
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-### Programming Language
-- Java
+### 💻 Programming Language
 
-### Frontend
-- HTML
-- CSS
-- JavaScript
-- React.js
+<p>
+<img src="https://skillicons.dev/icons?i=java" />
+</p>
 
-### Backend
-- Spring Boot
+### 🌐 Frontend
 
-### Database
-- MySQL
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
 
-### Tools
-- Git
-- GitHub
-- Maven
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring" />
+</p>
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### 🔧 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,maven,vscode" />
+</p>
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 ### 📦 Product Warranty Management System
 
-A full-stack application developed to manage the complete product warranty process, including product registration, warranty tracking, claim submission, claim management, and repair tracking.
+A full-stack application designed to manage **product registration, warranty tracking, claim processing, repair management, and role-based access**.
 
-**Technologies:** Java, Spring Boot, Spring Data JPA, React.js, MySQL
+**Technologies Used:**
 
-🔗 **Repository:** [View Project](YOUR_REPOSITORY_LINK)
+`Java` `Spring Boot` `Spring Data JPA` `React.js` `MySQL`
+
+🔗 **[View Repository](YOUR_PRODUCT_WARRANTY_REPOSITORY_LINK)**
 
 ---
 
 ### 🏔️ Secure Hill Infrastructure Asset Intelligence System
 
-A full-stack web application for reporting and managing infrastructure issues in hilly areas. Users can report issues with relevant details, while officers and engineers can manage complaints, track repair progress, and update issue status.
+A full-stack web application for **reporting and managing infrastructure issues in hilly areas**. Users can submit complaints with relevant details, while officers and engineers can track and manage repair progress.
 
-**Technologies:** React.js, MySQL, HTML, CSS, JavaScript, REST API
+**Technologies Used:**
 
-🔗 **Repository:** [View Project](YOUR_REPOSITORY_LINK)
+`React.js` `MySQL` `HTML` `CSS` `JavaScript` `REST API`
+
+🔗 **[View Repository](YOUR_SHIAIS_REPOSITORY_LINK)**
 
 ---
 
 ### ❤️ IoT Integrated Health Risk Predictor
 
-An IoT-based health monitoring system designed to monitor health parameters using sensors and provide risk prediction through a web-based dashboard.
+An IoT-based health monitoring system designed to monitor health parameters using sensors and provide **health risk prediction** through a web-based dashboard.
 
-**Technologies:** ESP32, MAX30102 Sensor, DS18B20 Sensor, MySQL, HTML, CSS, JavaScript, REST API
+**Technologies Used:**
 
-🔗 **Repository:** [View Project](YOUR_REPOSITORY_LINK)
+`ESP32` `MAX30102` `DS18B20` `MySQL` `HTML` `CSS` `JavaScript` `REST API`
+
+🔗 **[View Repository](YOUR_IOT_REPOSITORY_LINK)**
 
 ---
 
-## 💼 Internship
+## 💼 Internship Experience
 
-### Web Developer Intern — HOSTSPACIO
+### 🌐 Web Developer Intern — HOSTSPACIO
 
-**June 30, 2025 – July 20, 2025**
+📅 **June 30, 2025 – July 20, 2025**
 
-Worked as a Web Developer Intern, where I developed responsive and user-friendly web pages using **HTML, CSS, and JavaScript**. I collaborated with team members during the development process and gained practical experience in modern web development concepts.
+Worked as a Web Developer Intern, where I developed **responsive and user-friendly web pages using HTML, CSS, and JavaScript**. I collaborated with team members during the development process and gained practical experience in modern web development concepts.
 
 ---
 
 ## 🎓 Education
 
-### Bachelor of Engineering (B.E.) – Computer Science and Engineering
-
-**M. Kumarasamy College of Engineering**  
-2023 – 2027  
-**CGPA:** 7.65/10 *(Till 6th Semester)*
-
-### Higher Secondary Certificate (HSC)
-
-**P.R.G. Vellappa Naidu Matric Higher Secondary School**  
-2022 – 2023  
-**Percentage:** 87.5%
-
-### Secondary School Certificate (SSC)
-
-**P.R.G. Vellappa Naidu Matric Higher Secondary School**  
-2020 – 2021  
-**Percentage:** 80%
+| Qualification | Institution | Year | Result |
+|---|---|---:|---:|
+| **B.E. – Computer Science and Engineering** | M. Kumarasamy College of Engineering | 2023–2027 | **7.65 CGPA** |
+| **Higher Secondary Certificate (HSC)** | P.R.G. Vellappa Naidu Matric Higher Secondary School | 2022–2023 | **87.5%** |
+| **Secondary School Certificate (SSC)** | P.R.G. Vellappa Naidu Matric Higher Secondary School | 2020–2021 | **80%** |
 
 ---
 
 ## 📜 Certifications
 
-- **Full Stack Development** – NoviTech R&D Pvt. Ltd. *(30 Days MasterClass)*
-- **DSA for DeepTech Applications** – Brainovision Solutions India Pvt. Ltd. & AICTE *(International Level Bootcamp, May 2026)*
-- **Industry 4.0 & Industrial Internet of Things (IIoT)** – NPTEL SWAYAM, IIT Kharagpur
+🏅 **Full Stack Development**  
+NoviTech R&D Pvt. Ltd. — 30 Days MasterClass
+
+🏅 **DSA for DeepTech Applications**  
+Brainovision Solutions India Pvt. Ltd. & AICTE — International Level Bootcamp, May 2026
+
+🏅 **Industry 4.0 & Industrial Internet of Things (IIoT)**  
+NPTEL SWAYAM — IIT Kharagpur
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 Secured **First Prize** in Intra College Level "Code Carnival" – 2026
-- 🥈 Secured **Second Prize** in Intra College Level "Codex 2K26" – 2026
-- 🥉 Secured **Third Prize** in Intra College Level "Code Crackers" – 2025
-- 🥇 Secured **First Place** in Anna University Zonal Level Kho-Kho Tournament – 2025
-- 🥇 Secured **First Place** in Anna University Zonal Level 4×400m Relay Event (Men) – 2025
-- 🥇 Secured **First Place** in Anna University Zonal Level Triple Jump Event – 2024
+- 🥇 **First Prize** — Intra College Level "Code Carnival" — 2026
+- 🥈 **Second Prize** — Intra College Level "Codex 2K26" — 2026
+- 🥉 **Third Prize** — Intra College Level "Code Crackers" — 2025
+- 🏆 **First Place** — Anna University Zonal Level Kho-Kho Tournament — 2025
+- 🏆 **First Place** — Anna University Zonal Level 4×400m Relay Event — 2025
+- 🏆 **First Place** — Anna University Zonal Level Triple Jump Event — 2024
 
 ---
 
 ## 🎯 Areas of Interest
 
-- Full Stack Development
-- Database Management Systems
-- Backend Development
-- Software Development
+- 💻 Full Stack Development
+- ⚙️ Backend Development
+- 🗄️ Database Management Systems
+- 🚀 Software Development
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rakesh-NS&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="180" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakesh-NS&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="180" />
+
+</div>
+
+---
+
+## 🔥 GitHub Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=rakesh-NS&theme=tokyonight&hide_border=true&border_radius=10" />
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/rakesh-NS/rakesh-NS/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+
+</div>
 
 ---
 
 ## 🤝 Let's Connect
 
-<p align="left">
-<a href="https://www.linkedin.com/in/rakeshnallasamy/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-</a>
+<div align="center">
 
 <a href="https://github.com/rakesh-NS">
-<img src="https://img.shields.io/badge/GitHub-rakesh--NS-black?style=for-the-badge&logo=github" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-rakesh--NS-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Rakesh%20N-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
 <a href="mailto:rakeshrk00745@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" />
 </a>
-</p>
+
+</div>
 
 ---
 
+<div align="center">
+
+### 💡 "Learning today, building tomorrow."
+
 ⭐ **Thanks for visiting my profile!**
+
+</div>
